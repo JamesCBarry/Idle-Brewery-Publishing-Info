@@ -1,11 +1,12 @@
 # Idle-Brewery-Publishing-Info
 
-This is a repository for managing all the required publishing info and contact info for Idle Brewery.
+This is a public page which holds all publishing and contact information for Idle Brewery. Idle Brewery was created by James Barry.
 
-# Contact Information
+# Developer Contact Information 
 
-To reach out to the developer, James Barry, please feel free to reach out via Twitter, Discord, or directly via email. 
+To reach out to the developer, James Barry, please contact him via LinkedIn, Twitter, Discord, or directly via email. He monitors all channels.
 
+- https://www.linkedin.com/in/james-c-barry/
 - https://twitter.com/JamesBarrytime
 - discord.gg/xkdtaM8u6H
 - jacbarry53@gmail.com
