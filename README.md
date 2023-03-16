@@ -1,6 +1,14 @@
 # Idle-Brewery-Publishing-Info
 
-This is a repository for managing all the required publishing info for Idle Brewery.
+This is a repository for managing all the required publishing info and contact info for Idle Brewery.
+
+# Contact Information
+
+To reach out to the developer, James Barry, please feel free to reach out via Twitter, Discord, or directly via email. 
+
+- https://twitter.com/JamesBarrytime
+- discord.gg/xkdtaM8u6H
+- jacbarry53@gmail.com
 
 # Privacy Policy for Idle Brewery.
 
